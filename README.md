@@ -1,0 +1,2 @@
+# algritim-bot-
+algritimlar botlar 
